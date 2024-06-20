@@ -4,3 +4,4 @@ terraform-tut.pem
 .terraform/
 terraform.tfstate
 terraform.tfstate.backup
+hcpterraform.txt
