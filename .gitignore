@@ -1,4 +1,5 @@
 devops-directive-terraform-course/
+tf-s3-state/
 .vscode/
 terraform-tut.pem
 .terraform/
